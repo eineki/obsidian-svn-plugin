@@ -1,3 +1,7 @@
+# Obsidian SVN Plugin
+
+It is not intended as a regular viable plugin, just a little experiment to explore and learn how to write an obsidian plugin
+
 ## Obsidian Sample Plugin
 
 This is a sample plugin for Obsidian (https://obsidian.md).
